@@ -85,6 +85,7 @@ generate.py     → Text generation script
 > Once upon a time
 
 **Model output after training on TinyStories**
+> Once upon a time, a small dragon named Milo lived in a cave near a quiet forest. Milo loved to explore the world outside and often
 
 Output varies based on training duration. With short TinyStories training, the model produces grammatically structured but partially incoherent text, which improves with more data and training steps.
 
